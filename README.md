@@ -1,15 +1,21 @@
-# 🚀 Welcome to your new awesome project!
+# 🚀 Simple template for making website with vanilliajs + tailwind
 
-This project has been created using **webpack-cli**, you can now run
+## Quick start
+
+install:
+
+```
+npm install
+```
+
+build:
 
 ```
 npm run build
 ```
 
-or
+dev:
 
 ```
-yarn build
+npm run serve
 ```
-
-to bundle your application
